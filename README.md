@@ -4,4 +4,4 @@ This is a sample README file
 
 ##Heading 2
 
-I hope this much isn't a problem
+<<<<<<< .mineI hope this much isn't a problem=======this is bound to cause trouble!>>>>>>> .theirs
