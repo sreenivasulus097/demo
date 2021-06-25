@@ -1,3 +1,4 @@
 <h1>footer file added</h1>
 <p>footer file updated locally </p>
 <p>footer file updated remotely</p>
+<p>File updated first for diff tool</p>
