@@ -1,1 +1,2 @@
 <h1>footer file added</h1>
+<p>footer file updated remotely</p>
