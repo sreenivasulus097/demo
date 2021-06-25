@@ -2,3 +2,4 @@
 <p>footer file updated locally </p>
 <p>footer file updated remotely</p>
 <p>File updated first for diff tool</p>
+<p>footer file updated second time</p>
